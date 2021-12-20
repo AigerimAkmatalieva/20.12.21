@@ -11,15 +11,15 @@ firstName = "Vasya"
 console.log(firstName);
 age = "5"
 console.log(age);
-middleName = "Vasilivich"
+middleName = "Vasilivich";
 console.log(middleName);
-firstName = "Petya"
+firstName = "Petya";
 console.log(firstName);
-street = "Esenina"
+street = "Esenina";
 console.log(street);
-lastName = "Vasya"
+lastName = "Vasya";
 console.log(lastName);
-years = "23"
+years = "23";
 console.log(years);
-country = "Kyrgyzstan"
+country = "Kyrgyzstan";
 console.log(country);
