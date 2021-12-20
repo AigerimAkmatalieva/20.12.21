@@ -37,3 +37,8 @@ console.log(result);
 var result = (2 + 1) / 3 + 6 * 2;
 console.log(result);
 
+var a = 5;
+var b = 6;
+var c = 7;
+var formul = a * 2 + b * 2 + c * 2;
+console.log(formul);
