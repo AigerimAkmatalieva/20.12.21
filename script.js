@@ -47,3 +47,17 @@ var s = 7;
 var t = 89;
 var fizika = s / t;
 console.log(fizika);
+
+var x = 2;
+var s = 4;
+var t = 8;
+var a = 12;
+var v = 6;
+var formulfizik = x - v * t - a * t / 2;
+console.log(formulfizik);
+
+var m = 27;
+var g = 76;
+var massa = m * g;
+console.log(massa);
+
