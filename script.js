@@ -42,3 +42,8 @@ var b = 6;
 var c = 7;
 var formul = a * 2 + b * 2 + c * 2;
 console.log(formul);
+
+var s = 7;
+var t = 89;
+var fizika = s / t;
+console.log(fizika);
