@@ -65,3 +65,8 @@ var a = 12;
 var b = 8;
 var summa = (a - b) * (a * 2 + ab + b * 2);
 console.log(summa);
+
+var a = 10;
+var b = 6;
+var math = a * 2 + 2 * a * b + b * 2;
+console.log(math);
