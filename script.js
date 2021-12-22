@@ -63,7 +63,7 @@ console.log(massa);
 
 var a = 12;
 var b = 8;
-var summa = (a - b) * (a * 2 + ab + b * 2);
+var summa = a - b;
 console.log(summa);
 
 var a = 10;
